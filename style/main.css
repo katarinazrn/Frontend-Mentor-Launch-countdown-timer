@@ -163,7 +163,7 @@ h1 {
   padding: 12px;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 400px) {
   .card {
     margin: 6px;
     height: 51px;
